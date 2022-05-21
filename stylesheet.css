@@ -1,0 +1,37 @@
+body {
+	font-family: "Segoe UI", Arial, sans-serif;
+	background-color: white;
+	padding: 5px;
+	color: black;
+}
+
+h1 {
+	color: black;
+	font-family: "Segoe UI", Arial, sans-serif;
+	font-size: 50px;
+	text-align: center;
+}
+
+p {
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+
+.container {
+	text-align: center;
+	padding-left: 35px
+}
+
+.center {
+	text-align: center;
+}
+
+#input1 {
+	text-align: center;
+}
+
+.footerText {
+	padding-top: 1%;
+	text-align: center;
+}
